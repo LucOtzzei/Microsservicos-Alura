@@ -1,5 +1,5 @@
 # Microsservicos-Alura
-Repositorio criado para projeto  do curso "Microsserviços em .NET com RabbitMQ"
+Repositorio criado para projeto  do curso "Microsserviços em .NET com RabbitMQ".
 #
 <div>
 Criado utilizando:<br>
